@@ -1,2 +1,3 @@
-# theme_jango
-Theme spip base sur bootstrap3
+
+Adaptation de spipr à Bootsrap3
+
