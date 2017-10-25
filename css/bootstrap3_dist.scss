@@ -2,6 +2,11 @@
 @import "css/spip.variables";
 @import "css/mixins";
 
+img {
+	max-width: 100%;
+	height: auto;
+}
+
 
 .header {position: relative;}
 .header .accueil a {color: inherit;}
