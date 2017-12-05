@@ -1,8 +1,8 @@
 <paquet
 	prefix="bootstrap3_dist"
 	categorie="squelette"
-	version="1.0.0"
-	etat="dev"
+	version="1.0.1"
+	etat="test"
 	compatibilite="[3.0.0;3.2.*]"
 	logo="img/spipr_dist-32.png"
 	documentation="http://spipr.nursit.com/"
