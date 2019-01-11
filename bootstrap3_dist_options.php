@@ -13,6 +13,6 @@ if (
     AND $GLOBALS['visiteur_session']['statut']=='0minirezo'
     AND $GLOBALS['visiteur_session']['webmestre']=='oui')
 	)
-	_chemin(_DIR_PLUGIN_SPIPR_DIST."demo/");
+	_chemin(_DIR_PLUGIN_BOOTSTRAP3_DIST."demo/");
 
 ?>
