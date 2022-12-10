@@ -3,7 +3,7 @@
 	categorie="squelette"
 	version="1.0.6"
 	etat="test"
-	compatibilite="[3.0.0;4.0.*]"
+	compatibilite="[3.0.0;4.*]"
 	logo="img/spipr_dist-32.png"
 >
 
